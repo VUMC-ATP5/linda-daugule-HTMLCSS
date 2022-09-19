@@ -1,0 +1,46 @@
+body {
+    background-color: aquamarine;
+}
+p {
+
+    border-style: dashed;
+    color: brown;
+    border-color: pink;
+}
+h1{
+
+    padding-left: 40px;
+    padding-top: 20px;
+    color: orangered;
+}
+a{
+    color: red;
+}
+.porzingis {
+    border-style: double;
+    border-color: red;
+}
+#specialButton{
+    background-color: gold;
+}
+div.pilnais{
+    min-height: 100px;
+    background-color: blue;
+}
+div.pilnais{
+    min-height: 100px;
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 40% 50%;
+}
+
+
+div.kreisais{
+    min-height: 50px;
+    background-color: red;
+}
+
+div.labais{
+    min-height: 50px;
+    background-color: green;
+}
